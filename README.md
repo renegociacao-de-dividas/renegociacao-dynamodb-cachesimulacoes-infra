@@ -1,0 +1,1 @@
+# renegociacao-dynamodb-cachesimulacoes-infra
